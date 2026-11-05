@@ -29,6 +29,9 @@ Instead of a traditional profile page, DevPersona brings your developer identity
 
 A glimpse of the DevPersona terminal experience:
 
+<p align="center">
+  <img width="527" height="492" alt="Screenshot 2026-11-05 204100" src="https://github.com/user-attachments/assets/ca1dc08b-00f8-4c7b-aa3a-ac0d731ab696" />
+</p>
 
 ---
 
@@ -48,11 +51,11 @@ A glimpse of the DevPersona terminal experience:
 
 ```text
 DevPersona/
-│
-├── main.py
-├── requirements.txt
+├── assets/
+│   └── devpersona-demo.gif
 ├── README.md
-└── .gitignore
+├── main.py
+└── requirements.txt
 ```
 
 ---
