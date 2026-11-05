@@ -29,30 +29,6 @@ Instead of a traditional profile page, DevPersona brings your developer identity
 
 A glimpse of the DevPersona terminal experience:
 
-```text
-====================================================
-          WELCOME TO DEVPERSONA
-====================================================
-
-  Initializing developer profile...
-
-  DEVELOPER PROFILE
-  ------------------------------------------
-  Name        : RAGA SANDHIYA
-  Role        : Aspiring AI Engineer
-  Education   : B.E. Computer Science & Engineering
-  Interests   : AI | ML | GenAI | Web Development
-  Languages   : Python | Java | JavaScript
-
-====================================================
-  Welcome back, developer!
-
-  Today's thought:
-  "Keep learning. Keep building."
-====================================================
-
-  Thanks for visiting DevPersona!
-```
 
 ---
 
