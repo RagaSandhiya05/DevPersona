@@ -47,12 +47,15 @@ A glimpse of the DevPersona terminal experience:
 
 ---
 
-## 📂 Project Structure
+## 📁 Repository Structure
 
 ```text
 DevPersona/
+│
 ├── assets/
 │   └── devpersona-demo.gif
+│
+├── .gitignore
 ├── README.md
 ├── main.py
 └── requirements.txt
